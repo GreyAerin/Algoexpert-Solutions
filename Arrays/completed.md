@@ -1,8 +1,8 @@
 ### Arrays {#arrays}
 
 
-- [ ] Two Number Sum
-- [ ] Sorted Square Array
+- [x] Two Number Sum
+- [x] Sorted Square Array
 - [ ] Validate Subsequence
 - [ ] Tournament Winner
 - [ ] Non-Constructable Change
