@@ -1,8 +1,5 @@
 # Algoexpert Solutions in Swift
 
-
----
-
 ## Sections
 
   - [Arrays](#arrays)
