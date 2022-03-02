@@ -24,13 +24,13 @@
 
 - [x] Two Number Sum
 - [x] Sorted Square Array
-- [ ] Validate Subsequence
-- [ ] Tournament Winner
-- [ ] Non-Constructable Change
-- [ ] Three Number Sum
-- [ ] First Duplicate Value
-- [ ] Smallest Difference
-- [ ] Move Element to End
+- [x] Validate Subsequence
+- [x] Tournament Winner
+- [x] Non-Constructable Change
+- [x] Three Number Sum
+- [x] First Duplicate Value
+- [x] Smallest Difference
+- [x] Move Element to End
 - [x] Monotonic Array
 - [x] Array of Products
 - [ ] Spiral Traverse
