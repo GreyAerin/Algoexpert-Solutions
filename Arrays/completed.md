@@ -9,7 +9,7 @@
 - [x] Three Number Sum
 - [x] First Duplicate Value
 - [x] Smallest Difference
-- [ ] Move Element to End
+- [x] Move Element to End
 - [x] Monotonic Array
 - [x] Array of Products
 - [ ] Spiral Traverse
