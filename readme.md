@@ -137,9 +137,9 @@
 
 ### Greedy Algorithms 
 
-- [ ] Minimum Waiting Time
-- [ ] Class Photos
-- [ ] Tandem Bicycle
+- [x] Minimum Waiting Time
+- [x] Class Photos
+- [x] Tandem Bicycle
 - [ ] Task Assignment
 - [ ] Valid Starting City
 
