@@ -1,7 +1,7 @@
 ### Graphs 
 
-- [ ] Depth-first Search
-- [ ] Breadth-first Search
+- [x] Depth-first Search
+- [x] Breadth-first Search
 - [ ] Single Cycle Check
 - [ ] River Sizes
 - [ ] Youngest Common Ancestor
