@@ -70,7 +70,7 @@
 - [x] Node Depths
 - [x] Invert Binary Tree
 - [ ] Binary Tree Diameter
-- [ ] Find Successor
+- [x] Find Successor
 - [ ] Height Balanced Binary Tree
 - [ ] Max Path Sum In Binary Tree
 - [ ] Find Nodes Distance K
